@@ -7,6 +7,12 @@ public class ApplicationTest {
     @Test
     public void testHolaMundo() {
         System.out.println("hola mundo");
+        System.out.println("hotfix");
+    }
+
+    @Test
+    public void testFeactureOne() {
+        System.out.println("hola mundo - feacture-1");
     }
     @Test
     public void testFeature2() {

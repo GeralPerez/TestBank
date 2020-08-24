@@ -7,6 +7,7 @@ public class ApplicationTest {
     @Test
     public void testHolaMundo() {
         System.out.println("hola mundo");
+        System.out.println("hotfix");
     }
 
     @Test

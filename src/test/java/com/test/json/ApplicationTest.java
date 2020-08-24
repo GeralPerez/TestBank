@@ -8,4 +8,8 @@ public class ApplicationTest {
     public void testHolaMundo() {
         System.out.println("hola mundo");
     }
+    @Test
+    public void testFeature2() {
+        System.out.println("hola mundo - facture2");
+    }
 }
